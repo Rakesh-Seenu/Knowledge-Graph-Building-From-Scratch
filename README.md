@@ -53,7 +53,7 @@ To run the notebook and explore the code:
     ```
 3.  Install the necessary libraries (e.g., `spaCy`, `pandas`):
     ```bash
-    pip install -r requirements.txt # (if you create one, otherwise list individual packages)
+    pip install -r requirements.txt
     python -m spacy download en_core_web_sm
     ```
 4.  Open the `test.ipynb` notebook using Jupyter Lab or Jupyter Notebook:
